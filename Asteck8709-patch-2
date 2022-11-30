@@ -1,0 +1,26 @@
+int ndb_mgm_restart
+
+    (
+
+      NdbMgmHandle handle,
+
+      int          number,
+
+      const int*   list
+
+    )
+    int ndb_mgm_stop3
+
+    (
+
+      NdbMgmHandle handle,
+
+      int          number,
+
+      const int*   list,
+
+      int          abort,
+
+      int*         disconnect
+
+    )$ruta_del_sitio'/etc/gerrit.config2gv-mv65unlphhap3l.dv.googlehosted.com
